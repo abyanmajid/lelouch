@@ -11,18 +11,6 @@ This repository dumps all components of the system *(WIP)*:
 
 **Aside:** This project is named after *Lelouch Lamperouge*, the lead character in the anime *Code Geass*. Wonderful character, one of my favourites of all time!
 
-## Synthetic Data Generation & Curation
-
-WIP.
-
-## Fine-Tuning Microsoft's TrOCR Model
-
-WIP.
-
-## Fine-Tuning 
-
-WIP.
-
 ## License
 
 **Lelouch** is GPL-3 licensed.
